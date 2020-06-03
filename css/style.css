@@ -478,7 +478,7 @@ footer{
         -moz-background-size:100% auto;
         -o-background-size: 100% auto;
         background-size:auto 100vh;
-	background-color: #000;
+	background-color: #000 !important;
 
       }
 
